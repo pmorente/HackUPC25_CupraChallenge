@@ -1,6 +1,10 @@
 ## Inspiration
 We wanted to turn the traditionally dry vehicle manual into something customers actually look forward to using. Inspired by mobile trivia games like *Clash Royale* or *Wii Olympic Games 2012* and AI chat experiences, we created a playful way for customers to learn about their new CUPRA through an engaging AI-based guessing game — all while collecting exclusive digital CUPRA stickers.
 
+
+![Screenshot 1](image1.png)
+![Screenshot 2](image2.png)
+
 ## What it does
 An AI-powered guesser system engine that, having the dataset of the manual, lets users choose a topic and start getting clues from the AI. The user has 5 tries to answer correctly. If the user answers wrong, the AI explains why it is wrong and gives a more specific clue each time. This helps customers get to know their car before delivery.
 
