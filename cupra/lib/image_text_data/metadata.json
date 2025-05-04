@@ -1,0 +1,34 @@
+{
+  "views": [
+    {
+      "title": "Front View",
+      "description": "Front view of the vehicle showing exterior features",
+      "image": "front_view.jpg",
+      "text": "Front radar ››› page 45"
+    },
+    {
+      "title": "Rear View",
+      "description": "Rear view of the vehicle showing exterior features",
+      "image": "rear_view.jpg",
+      "text": "Rear camera ››› page 52"
+    },
+    {
+      "title": "Interior View",
+      "description": "Interior view showing dashboard and controls",
+      "image": "interior_view.jpg",
+      "text": "Infotainment system ››› page 78"
+    },
+    {
+      "title": "Warning Symbols",
+      "description": "Dashboard warning and indicator symbols",
+      "image": "warning_symbols.jpg",
+      "text": "Brake system warning ››› page 120"
+    },
+    {
+      "title": "Safety Features",
+      "description": "Safety systems and airbag indicators",
+      "image": "safety_features.jpg",
+      "text": "Front passenger airbag off ››› page 50"
+    }
+  ]
+} 

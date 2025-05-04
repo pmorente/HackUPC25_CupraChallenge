@@ -1,0 +1,157 @@
+{
+    "default": {
+      "count": 1,
+      "items": [
+        { 
+          "sticker": "sticker_001",
+          "path": "lib/images/stickers/default.png",
+          "name": "default_sticker"
+        }
+      ]
+    },
+    "General views of the vehicle": {
+      "section": 1,  
+      "count": 5,
+      "items": [
+        {
+          "id": "sticker_001",
+          "path": "lib/images/stickers/sticker_001.png",
+          "name": "Front exterior view",
+          "category": "brand"
+        },
+        {
+          "id": "sticker_002",
+          "path": "lib/images/stickers/sticker_002.png",
+          "name": "Rear exterior view",
+          "category": "brand"
+        },
+        {
+          "id": "sticker_003",
+          "path": "lib/images/stickers/sticker_003.png",
+          "name": "Interior view",
+          "category": "brand"
+        },
+        {
+          "id": "sticker_004",
+          "path": "lib/images/stickers/sticker_004.png",
+          "name": "Overview (left hand drive)",
+          "category": "brand"
+        },
+        {
+          "id": "sticker_005",
+          "path": "lib/images/stickers/sticker_005.png",
+          "name": "Overview (right hand drive)",
+          "category": "brand"
+        }
+      ]
+    },
+    "Driver information": {
+      "section": 2,
+      "count": 6,
+      "items": [
+        {
+          "id": "sticker_006",
+          "path": "lib/images/stickers/sticker_006.png",
+          "name": "Control lamps",
+          "category": "instrument"
+        },
+        {
+          "id": "sticker_007",
+          "path": "lib/images/stickers/sticker_007.png",
+          "name": "Instrument panel",
+          "category": "instrument"
+        },
+        {
+          "id": "sticker_008",
+          "path": "lib/images/stickers/sticker_008.png",
+          "name": "Drowsiness monitor",
+          "category": "assistance"
+        },
+        {
+          "id": "sticker_009",
+          "path": "lib/images/stickers/sticker_009.png",
+          "name": "Driver attention monitor",
+          "category": "assistance"
+        },
+        {
+          "id": "sticker_010",
+          "path": "lib/images/stickers/sticker_010.png",
+          "name": "Road signs detection system",
+          "category": "assistance"
+        }
+      ]
+    },
+    "Safety": {
+      "section": 3,
+      "count": 5,
+      "items": [
+        {
+          "id": "sticker_011",
+          "path": "lib/images/stickers/sticker_011.png",
+          "name": "Safe driving",
+          "category": "safety"
+        },
+        {
+          "id": "sticker_012",
+          "path": "lib/images/stickers/sticker_012.png",
+          "name": "Correct sitting position of vehicle occupants",
+          "category": "safety"
+        },
+        {
+          "id": "sticker_013",
+          "path": "lib/images/stickers/sticker_013.png",
+          "name": "Seat belts",
+          "category": "safety"
+        },
+        {
+          "id": "sticker_014",
+          "path": "lib/images/stickers/sticker_014.png",
+          "name": "PreCrash system",
+          "category": "safety"
+        },
+        {
+          "id": "sticker_015",
+          "path": "lib/images/stickers/sticker_015.png",
+          "name": "Airbag system",
+          "category": "safety"
+        }
+      ]
+    },
+    "High-voltage battery": {
+      "section": 4,
+      "count": 5,
+      "items": [
+        {
+          "id": "sticker_016",
+          "path": "lib/images/stickers/sticker_016.png",
+          "name": "Safety instructions",
+          "category": "battery"
+        },
+        {
+          "id": "sticker_017",
+          "path": "lib/images/stickers/sticker_017.png",
+          "name": "Conservation of the high-voltage battery",
+          "category": "battery"
+        },
+        {
+          "id": "sticker_018",
+          "path": "lib/images/stickers/sticker_018.png",
+          "name": "Charging the high-voltage battery",
+          "category": "battery"
+        },
+        {
+          "id": "sticker_019",
+          "path": "lib/images/stickers/sticker_019.png",
+          "name": "Charging settings",
+          "category": "battery"
+        },
+        {
+          "id": "sticker_020",
+          "path": "lib/images/stickers/sticker_020.png",
+          "name": "Charging cable",
+          "category": "battery"
+        }
+      ]
+    }
+  }
+  
