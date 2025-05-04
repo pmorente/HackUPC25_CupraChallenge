@@ -65,7 +65,7 @@ class GuessResponse(BaseModel):
 # --- Gemini API Configuration ---
 try:
     # Configure the Gemini API key directly
-    API_KEY = 'AIzaSyCQoGzJEgUJKfDqeF8_tEvGc1pChk-8YKs'
+    API_KEY = ''
     genai.configure(api_key=API_KEY)
     # Create the model instance (e.g., 'gemini-1.5-flash' or 'gemini-pro')
     # Choose the model that best suits your needs and availability
